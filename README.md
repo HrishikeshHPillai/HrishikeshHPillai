@@ -3,7 +3,7 @@
 <!--
 **HrishikeshHPillai/HrishikeshHPillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Hrishikesh H Pillai] (https://raw.githubusercontent.com/HrishikeshHPillai/HrishikeshHPillai/main/Github%20Banner.png)
+![Hrishikesh H Pillai](https://raw.githubusercontent.com/HrishikeshHPillai/HrishikeshHPillai/main/Github%20Banner.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
